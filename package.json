@@ -10,8 +10,8 @@
     "prettier": "prettier --write src.ts/**/*.ts",
     "build": "tsc"
   },
-  "repository": "https://git.pyrosec.gg/project-ghost/textverified",
-  "author": "project-ghost",
+  "repository": "https://github.com/pyrosec/textverified",
+  "author": "pyrosec",
   "license": "MIT",
   "private": false,
   "dependencies": {
